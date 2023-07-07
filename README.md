@@ -1,4 +1,4 @@
-# ecc-python-dll
+# ecc100-python-dll
 
 Python (3.6) communication library for the Attocube ECC100 three axis motion controller connected to a PC via a USB connection.
 The class makes use of a dynamical link library (dll) provided by the Attocube software (links below). Documentation on the library functions is provided by the company in the .zip files.
